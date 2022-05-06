@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "TA-19V_Schedule"

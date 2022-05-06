@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Roader</string>
+    <string name="upload_video">Загрузить Видео</string>
+    <string name="upload_image">Загрузить Картинку</string>
+    <string name="send_button">Отправить</string>
+    <string name="date_and_time">Дата и время</string>
+    <string name="place">Место</string>
+    <string name="LicPlate">Регистрац. номер автомобиля</string>
+    <string name="PCode">Персональный код</string>
+    <string name="FIO">ФИО</string>
+    <string name="phone">Номер телефона</string>
+    <string name="chck">Я принимаю условия пользовательского соглашения</string>
+    <string name="userInfo">Личная информация</string>
+
+    <string-array name="variants">
+        <item>Неправильная парковка</item>
+        <item>Езда в неположенном месте</item>
+        <item>Пересечение сплошной</item>
+        <item>Езда на красный свет</item>
+        <item>Игнорирование знака приоритета проезда</item>
+        <item>Скрытие автомобильного номера</item>
+        <item>Другое</item>
+    </string-array>
+
+</resources>
